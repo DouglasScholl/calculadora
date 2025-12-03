@@ -35,3 +35,4 @@ b_2 = Button(frame_corpo, text="/", width=20, height=4)
 b_2.place(x=340, y=0)
 
 janela.mainloop()
+#execução da janela principal da aplicação
